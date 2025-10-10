@@ -42,7 +42,7 @@
     max-width="300px"
     width="300px"
     align="right"
-    style="border-radius:10px; margin-top: 20px;"
+    style="border-radius:10px;"
   />
 </div>
 
