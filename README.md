@@ -11,25 +11,37 @@
 <hr style="border:none; border-top:1px solid #333; margin:30px 0;">
 
 <!-- Stack Tecnológico -->
-<h2 align="center">💻 Stack Tecnológico</h2>
+<h2 align="center">💻 Minhas Tecnologias</h2>
 
-<table align="center" style="border:none; width:100%; max-width:900px;">
-  <tr>
-    <td style="vertical-align:top; text-align:left; min-width:250px;">
-      <p>● <strong>Frontend</strong></p>
-      <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,js,ts" />
-      <p>● <strong>Backend</strong></p>
-      <img src="https://skillicons.dev/icons?i=py,java,nodejs,mysql,mongodb,prisma,swagger" />
-      <p>● <strong>Ferramentas</strong></p>
-      <img src="https://skillicons.dev/icons?i=git,androidstudio,vscode,docker" />
-    </td>
-    <td align="center" style="vertical-align:middle;">
-      <img src="https://media.giphy.com/media/4dYz4Vils2Ugvrxdsm/giphy.gif" alt="Cyberpunk GIF" width="280" style="border-radius:10px;"/>
-    </td>
-  </tr>
-</table>
+<div
+  align="center"
+  style="
+    max-width: 900px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+  "
+>
+  <!-- Coluna de texto à esquerda -->
+  <div style="text-align: left; width: 55%; min-width: 250px;">
+    <p>● <strong>Frontend</strong></p>
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,js,ts" />
+    <p>● <strong>Backend</strong></p>
+    <img src="https://skillicons.dev/icons?i=py,java,nodejs,mysql,mongodb,prisma,swagger" />
+    <p>● <strong>Ferramentas</strong></p>
+    <img src="https://skillicons.dev/icons?i=git,androidstudio,vscode,docker" />
+  </div>
 
-<hr style="border:none; border-top:1px solid #333; margin:30px 0;">
+  <!-- Imagem à direita -->
+  <img
+    src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMG9hYXBuaXFlNHltcTlza3hmdnEzOXc3bzV6NjRjMnRuN21idjNpZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PxcAsJ4ktyFGWkUAem/giphy.gif"
+    alt="Cyberpunk GIF"
+    width="300"
+    style="border-radius:10px; margin-top: 20px;"
+  />
+</div>
 
 <!-- GitHub Stats -->
 <div align="center">
@@ -41,7 +53,7 @@
 <hr style="border:none; border-top:1px solid #333; margin:30px 0;">
 
 <!-- Projetos -->
-<div align="left">
+<div align="left" style="max-width:900px; margin:auto;">
   <h2>📋 Projetos</h2>
   <ul style="list-style:none; padding-left:0;">
     <li>● <strong>Sistema de Gerenciamento de Estoque</strong> — API para controle de inventário.</li>
