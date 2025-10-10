@@ -8,8 +8,10 @@
   </h3>
 </div>
 
+---
+
 <!-- Stack Tecnológico -->
-<h2 align="center">💻 Minhas Tecnologias</h2>
+<h2 align="left">💻 Minhas Tecnologias</h2>
   <img
     src="https://pouch.jumpshare.com/preview/QFe1KGCexWVzDbjamgI2twmxAQJs0-7bm9lAWTg8-gigoB3p_Ayi_of0P8KyJdhZwVThso3foyDDuwcmw9VOaBM5xNqrhAiOXXj9K3-MbT8"
     alt="gif coding"
@@ -18,13 +20,13 @@
     width="400px"
     align="right"
   />
-  <p>● Frontend</p>
+  <p><strong>● Frontend</strong></p>
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,js,ts" />
-  <p>● Backend</p>
+  <p><strong>● Backend</strong></p>
   <img
     src="https://skillicons.dev/icons?i=py,java,nodejs,mysql,mongodb,prisma,swagger"
   />
-  <p>● Ferramentas</p>
+  <p><strong>● Ferramentas</strong></p>
   <img src="https://skillicons.dev/icons?i=git,androidstudio,vscode,docker" />
 </div>
 <br> <br> <br> <br> <br>
