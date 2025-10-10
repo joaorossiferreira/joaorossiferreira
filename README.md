@@ -27,9 +27,9 @@
   <p>● Ferramentas</p>
   <img src="https://skillicons.dev/icons?i=git,androidstudio,vscode,docker" />
 </div>
-<br> <br> <br>
+<br> <br> <br> <br> <br>
 
-
+---
 
 <!-- GitHub Stats -->
 <div align="center">
