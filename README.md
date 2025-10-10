@@ -8,20 +8,15 @@
   </h3>
 </div>
 
-<hr style="border:none; border-top:1px solid #333; margin:30px 0;">
-
 <!-- Stack Tecnológico -->
 <h2 align="center">💻 Minhas Tecnologias</h2>
-
-   <h2 style="border-bottom: none">🔧 Tecnologias e ferramentas</h2>
   <img
-    src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMG9hYXBuaXFlNHltcTlza3hmdnEzOXc3bzV6NjRjMnRuN21idjNpZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PxcAsJ4ktyFGWkUAem/giphy.gif"
+    src="https://pouch.jumpshare.com/preview/QFe1KGCexWVzDbjamgI2twmxAQJs0-7bm9lAWTg8-gigoB3p_Ayi_of0P8KyJdhZwVThso3foyDDuwcmw9VOaBM5xNqrhAiOXXj9K3-MbT8"
     alt="gif coding"
     min-width="400px"
     max-width="400px"
     width="400px"
     align="right"
-    style="margin-top: 140px; border-radius:10px;"
   />
   <p>● Frontend</p>
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,js,ts" />
