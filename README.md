@@ -17,9 +17,9 @@
   <img
     src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMG9hYXBuaXFlNHltcTlza3hmdnEzOXc3bzV6NjRjMnRuN21idjNpZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PxcAsJ4ktyFGWkUAem/giphy.gif"
     alt="gif coding"
-    min-width="300px"
-    max-width="300px"
-    width="300px"
+    min-width="600px"
+    max-width="600px"
+    width="600px"
     align="right"
     style="margin-top: 140px; border-radius:10px;"
   />
