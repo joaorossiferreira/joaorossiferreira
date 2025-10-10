@@ -38,7 +38,10 @@
   <img
     src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMG9hYXBuaXFlNHltcTlza3hmdnEzOXc3bzV6NjRjMnRuN21idjNpZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PxcAsJ4ktyFGWkUAem/giphy.gif"
     alt="Cyberpunk GIF"
-    width="300"
+    min-width="300px"
+    max-width="300px"
+    width="300px"
+    align="right"
     style="border-radius:10px; margin-top: 20px;"
   />
 </div>
