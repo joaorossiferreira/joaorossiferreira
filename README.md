@@ -13,38 +13,28 @@
 <!-- Stack Tecnológico -->
 <h2 align="center">💻 Minhas Tecnologias</h2>
 
-<div
-  align="center"
-  style="
-    max-width: 900px;
-    margin: auto;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    flex-wrap: wrap;
-  "
->
-  <!-- Coluna de texto à esquerda -->
-  <div style="text-align: left; width: 55%; min-width: 250px;">
-    <p>● <strong>Frontend</strong></p>
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,js,ts" />
-    <p>● <strong>Backend</strong></p>
-    <img src="https://skillicons.dev/icons?i=py,java,nodejs,mysql,mongodb,prisma,swagger" />
-    <p>● <strong>Ferramentas</strong></p>
-    <img src="https://skillicons.dev/icons?i=git,androidstudio,vscode,docker" />
-  </div>
-
-  <!-- Imagem à direita -->
+   <h2 style="border-bottom: none">🔧 Tecnologias e ferramentas</h2>
   <img
     src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMG9hYXBuaXFlNHltcTlza3hmdnEzOXc3bzV6NjRjMnRuN21idjNpZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PxcAsJ4ktyFGWkUAem/giphy.gif"
-    alt="Cyberpunk GIF"
+    alt="gif coding"
     min-width="300px"
     max-width="300px"
     width="300px"
     align="right"
-    style="border-radius:10px;"
+    style="margin-top: 140px; border-radius:10px;"
   />
+  <p>● Frontend</p>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,js,ts" />
+  <p>● Backend</p>
+  <img
+    src="https://skillicons.dev/icons?i=py,java,nodejs,mysql,mongodb,prisma,swagger"
+  />
+  <p>● Ferramentas</p>
+  <img src="https://skillicons.dev/icons?i=git,androidstudio,vscode,docker" />
 </div>
+<br>
+
+
 
 <!-- GitHub Stats -->
 <div align="center">
