@@ -13,7 +13,7 @@
 <!-- Stack Tecnológico -->
 <h2 align="left">💻 Minhas Tecnologias</h2>
   <img
-    src="https://pouch.jumpshare.com/preview/QFe1KGCexWVzDbjamgI2twmxAQJs0-7bm9lAWTg8-gigoB3p_Ayi_of0P8KyJdhZwVThso3foyDDuwcmw9VOaBM5xNqrhAiOXXj9K3-MbT8"
+    src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmRmMTA3OXd2aTFsenI5YWZkcWlwM2pqeGt0amlnN2hkc29qbWFyNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kqSQbm3NKevNOD47Jm/giphy.gif"
     alt="gif coding"
     min-width="400px"
     max-width="400px"
