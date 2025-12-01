@@ -36,9 +36,14 @@
 <!-- GitHub Stats -->
 <div align="center">
   <h2>📊 GitHub Stats</h2>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=joaorossiferreira&show_icons=true&theme=neon&include_all_commits=true&count_private=true&border_radius=10" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaorossiferreira&layout=compact&theme=neon&hide_border=false&include_all_commits=true&count_private=true&border_radius=5" />
+
+  <!-- Ranking A+, A, B+ etc -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=joaorossiferreira&theme=tokyonight" />
+
+  <!-- Linguagens -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joaorossiferreira&theme=tokyonight" />
 </div>
+
 
 <hr style="border:none; border-top:1px solid #333; margin:30px 0;">
 
