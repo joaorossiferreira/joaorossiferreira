@@ -1,7 +1,7 @@
 <!-- Cabeçalho -->
 <div align="center">
   <h1 style="margin:0; border:none;">João Vitor Rossi Ferreira</h1>
-  <h2 style="margin:0; border:none;">Estudante do 4º DSM — Fatec SJC</h2>
+  <h2 style="margin:0; border:none;">Estudante do 5º DSM — Fatec SJC</h2>
   <h3 style="margin-top:10px; border:none;">
     Apaixonado por Jogos, Gatos e Café. <br>
     Vivendo à base de café e commits.
